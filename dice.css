@@ -5,8 +5,8 @@ body{
 
 }
 h1{
-    font-size: 3rem;
-    margin-top: 2rem;
+    font-size: 2rem;
+    margin-top: 1rem;
 
 }
 .dice{
@@ -27,7 +27,7 @@ h1{
   }  
 }
 button{
-    background-color: #47a5c4;
+    background-color: cyan;
     color: white;
     font-size: 1.5ren;
     padding: 1rem 2rem;
